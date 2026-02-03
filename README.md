@@ -53,4 +53,5 @@
 
     main { padding: 60px 20px; max-width: 1000px; margin: auto; }
 
-    section h2*
+    section h2* 
+
